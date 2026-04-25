@@ -216,3 +216,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Generated txt
+Cipher.txt
+Decipher.txt
+cipher.txt
+decipher.txt
